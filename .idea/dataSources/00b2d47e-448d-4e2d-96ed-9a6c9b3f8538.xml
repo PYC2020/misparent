@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="本地mysql">
+  <database-model serializer="dbm" dbms="UNKNOWN" family-id="UNKNOWN" format-version="4.19">
+    <root id="1">
+      <ServerVersion>0.0</ServerVersion>
+      <DefaultCasing>lower/lower</DefaultCasing>
+    </root>
+    <database id="2" parent="1" name="bbs"/>
+    <database id="3" parent="1" name="c81-s3-pyc-blog"/>
+    <database id="4" parent="1" name="c85-ply-damai"/>
+    <database id="5" parent="1" name="favorite"/>
+    <database id="6" parent="1" name="information_schema"/>
+    <database id="7" parent="1" name="mysql"/>
+    <database id="8" parent="1" name="test"/>
+    <database id="9" parent="1" name="testmis81"/>
+    <database id="10" parent="1"/>
+  </database-model>
+</dataSource>
